@@ -1,0 +1,119 @@
+ul {
+
+    background-color: white;
+    list-style-type: none;
+    display:inline;
+    position: fixed;
+    top: 0;
+    width: 95%;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+
+}
+
+a.hbar1{
+    color: black;
+    padding-right: 15%;
+    font-family: "Arial Black";
+    font-size:150%;
+}
+
+
+
+b.hbar {
+    color: black;
+    padding-right: 5%;
+    font-size: 100%;
+    font-family: "Arial Black";
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 100%;
+    margin-left: 4%;
+    padding: 0.25%;
+}
+
+b.email{
+    font-size: 4%;
+    margin-left: 2% ;
+    margin-right: 1%;
+    font-size: 50%;
+    -webkit-animation: color-change 1s infinite;
+    -moz-animation: color-change 1s infinite;
+    -o-animation: color-change 1s infinite;
+    -ms-animation: color-change 1s infinite;
+    animation: color-change 1s infinite;
+
+}
+
+b.phone{
+    font-size: 70%;
+    -webkit-animation: color-change 1s infinite;
+    -moz-animation: color-change 1s infinite;
+    -o-animation: color-change 1s infinite;
+    -ms-animation: color-change 1s infinite;
+    animation: color-change 1s infinite;
+}
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@-ms-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    50% { color: blue; }
+    100% { color: red; }
+}
+
+.mainbody{
+    padding-top: 6%;
+
+}
+
+.img1{
+    padding-top:1%;
+    width: 20%;
+    height: 30%;
+    float: left;
+    padding-right: 2%;
+    border-radius: 50%;
+}
+
+.title{
+    text-align: center;
+    font-family: "Arial";
+}
+
+.a1{
+    padding-top:2%;
+    color: red;
+    font-family: "Arial";
+}
+
+.a2{
+    color: red;
+    font-family: "Arial";
+}
+
+p{
+    font-family: "Arial";
+}
