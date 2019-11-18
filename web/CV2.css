@@ -1,0 +1,181 @@
+ul {
+
+    background-color: white;
+    list-style-type: none;
+    display:inline;
+    position: fixed;
+    margin-top:-1%;
+    padding-bottom:0.5%;
+    width: 95.5%;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+
+}
+
+a.hbar1{
+    color: White;
+    padding-right: 20%;
+    font-family: "Arial Black";
+    font-size:150%;
+    -webkit-animation: color-change 10s infinite;
+    -moz-animation: color-change 10s infinite;
+    -o-animation: color-change 10s infinite;
+    -ms-animation: color-change 10s infinite;
+    animation: color-change 10s infinite;
+}
+
+.emojis{
+    color: white;
+}
+.hbar {
+
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+
+}
+
+.hbar:hover {background: #eee;}
+
+.success {color: green;}
+.info {color: dodgerblue;}
+.warning {color: orange;}
+.danger {color: red;}
+.default {color: black;}
+
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 100%;
+    margin-left: 15%;
+    padding: 0.25%;
+}
+
+b.email{
+    font-size: 4%;
+    margin-left: -4% ;
+    margin-right: 2%;
+    font-size: 50%;
+    -webkit-animation: color-change 1s infinite;
+    -moz-animation: color-change 1s infinite;
+    -o-animation: color-change 1s infinite;
+    -ms-animation: color-change 1s infinite;
+    animation: color-change 1s infinite;
+
+}
+
+b.phone{
+    font-size: 70%;
+    -webkit-animation: color-change 1s infinite;
+    -moz-animation: color-change 1s infinite;
+    -o-animation: color-change 1s infinite;
+    -ms-animation: color-change 1s infinite;
+    animation: color-change 1s infinite;
+}
+
+@-webkit-keyframes color-change {
+    0% { color: black; }
+    50% { color: red; }
+    100% { color: black; }
+}
+@-moz-keyframes color-change {
+    0% { color: black; }
+    50% { color: red; }
+    100% { color: black; }
+}
+@-ms-keyframes color-change {
+    0% { color: black; }
+    50% { color: red; }
+    100% { color: black; }
+}
+@-o-keyframes color-change {
+    00% { color: black; }
+    50% { color: red; }
+    100% { color: black; }
+}
+@keyframes color-change {
+    0% { color: black; }
+    50% { color: red; }
+    100% { color: black; }
+}
+
+.music {
+    font-family: "Arial Black";
+    font-size: 400%;
+    padding-top:30%;
+}
+
+.bof{
+    font-family: "Arial Black";
+    font-size: 400%;
+}
+
+.imge1{
+    width: 22%;
+    length: 22%;
+    margin-left:-78%;
+}
+
+.art{
+    font-family: "Arial Black";
+    font-size: 400%;
+    padding-top:30%;
+}
+
+.th111{
+    margin-left:-118%;
+}
+
+.th114{
+    margin-left:-118%;
+}
+
+.h66111{
+     margin-left:158%;
+ }
+
+.th112{
+    margin-left:-228%;
+}
+
+.th113{
+    margin-left:-258%;
+}
+
+.imge2{
+    width: 92%;
+    length: 22%;
+}
+
+.imge3{
+    margin-left: 17.7%;
+    width: 88%;
+    length: 22%;
+}
+
+.imge4{
+    margin-left: 26.7%;
+    width: 56%;
+    length: 22%;
+}
+
+.th21{
+    margin-top:15%;
+}
+
+.th22{
+    margin-top:2%;
+}
+
+.th222{
+    color:white;
+}
+
+.video{
+    margin-right: 25%;
+}
